@@ -6,7 +6,8 @@
 This repository contains the implementation and documentation of a comprehensive vulnerability assessment project using Tenable Nessus Essentials. The project demonstrates practical cybersecurity skills, including vulnerability scanning, security analysis, and remediation planning on multiple target systems.
 
 The assessment covered three hosts (10.0.2.2, 10.0.2.3, and 10.0.2.17), identifying vulnerabilities across network services, SSL/TLS configurations, outdated software, and misconfigurations.
-🎯 Objectives
+
+# 🎯 Objectives
 
     Perform vulnerability scans on multiple target systems.
 
@@ -18,7 +19,7 @@ The assessment covered three hosts (10.0.2.2, 10.0.2.3, and 10.0.2.17), identify
 
     Document findings professionally.
 
-🛠️ Tools Used
+# 🛠️ Tools Used
 
     Tenable Nessus Essentials – Primary vulnerability scanner.
 
@@ -77,7 +78,7 @@ Host 10.0.2.17
 
     Info: Apache HTTP server detection, SSL/TLS configuration details, software inventory.
 
-🛡️ Remediation Recommendations
+# 🛡️ Remediation Recommendations
 Immediate Actions
 
     Enable SMB Signing on Windows systems.
@@ -104,13 +105,13 @@ Long-Term Improvements
 
     Train staff in security awareness.
 
-📈 Scan Statistics
+# 📈 Scan Statistics
 Target IP	   TotalVulnerabilities	  Critical	  High	  Medium	  Low	    Info
 10.0.2.2	         23	                0	         0        1	       1	     21
 10.0.2.3	         11	                0	         0	      1    	   0       10
 10.0.2.17	         78	                2	         3  	    4	       0	     69
 
-📚 Learning Outcomes
+# 📚 Learning Outcomes
 
     Practical experience with Nessus Essentials.
 
@@ -120,7 +121,7 @@ Target IP	   TotalVulnerabilities	  Critical	  High	  Medium	  Low	    Info
 
     Understanding of network and application-level vulnerabilities.
 
-🚀 Future Enhancements
+# 🚀 Future Enhancements
 
     Integration with automated patch management tools.
 
