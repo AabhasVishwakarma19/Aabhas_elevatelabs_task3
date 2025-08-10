@@ -108,8 +108,8 @@ Long-Term Improvements
 # 📈 Scan Statistics
 Target IP	   TotalVulnerabilities	  Critical	  High	  Medium	  Low	    Info
 10.0.2.2	         23	                0	         0        1	       1	     21
-10.0.2.3	         11	                0	         0	      1    	   0       10
-10.0.2.17	         78	                2	         3  	    4	       0	     69
+10.0.2.3	         11	                0	         0	      1    	   0         10
+10.0.2.17	         78	                2	         3  	  4	       0	     69
 
 # 📚 Learning Outcomes
 
